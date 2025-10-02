@@ -2,6 +2,11 @@
 
 OpenCV-powered face filters resembling Snapchat overlays.
 
+# Demo:
+
+<video src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ccf7151377bf10a708c77f39f14339d8077bc20f_demo.mp4" controls></video>
+
+
 ## Setup
 
 1. Create and activate a virtual environment (optional but recommended).
